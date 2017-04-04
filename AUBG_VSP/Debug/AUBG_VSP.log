@@ -1,0 +1,13 @@
+﻿  Source.cpp
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(70): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(74): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(79): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(83): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(87): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(127): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(238): warning C4018: '<': signed/unsigned mismatch
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(261): warning C4018: '<': signed/unsigned mismatch
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(270): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\utility programs\vs - c++\aubg_vsp\aubg_vsp\source.cpp(273): warning C4018: '<': signed/unsigned mismatch
+  AUBG_VSP.vcxproj -> E:\Utility Programs\VS - C++\AUBG_VSP\Debug\AUBG_VSP.exe
+  AUBG_VSP.vcxproj -> E:\Utility Programs\VS - C++\AUBG_VSP\Debug\AUBG_VSP.pdb (Full PDB)
