@@ -294,7 +294,7 @@ int main()
 	vendor.clear();
 	Vehicles_With_SpareParts.clear();
 
-	cout << "\nThank you for visiting us!\n";
+	cout << "\nThank you for shopping!\n";
 
 	return 0;
 }
